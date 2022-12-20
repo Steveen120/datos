@@ -1,0 +1,17 @@
+*{
+    background-color: white;
+    background: url(image.png);
+}
+.card{
+    color: red;
+}
+
+.btn-primary{
+    background-color: greenyellow;
+    color: black;
+}
+
+.table{
+    background-color: 	#87CEEB;
+    color: black;
+}
